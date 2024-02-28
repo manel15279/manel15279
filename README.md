@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **manel.ouchar@hotmail.com**
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=#c21e2e)
+![](https://komarev.com/ghpvc/?username=manel15279&color=blueviolet)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
