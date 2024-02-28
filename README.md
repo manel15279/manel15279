@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manel</h1>
 <h3 align="center">a passionate AI student 👩‍💻</h3>
 
-
 - 🔭 I’m currently pursuing **my Master's in Artificial Intelligence**
 
 - 📫 How to reach me **manel.ouchar@hotmail.com**
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=#c21e2e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
